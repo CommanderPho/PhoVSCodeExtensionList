@@ -1,7 +1,8 @@
 {
   "name": "phocustomvscodeextensions",
-  "displayName": "PhoCustomVSCodeExtensions",
+  "displayName": "PhoVSCodeExtensionList",
   "description": "A collection of VSCode extensions that I've personally modified",
+  "repository": {"url": "https://github.com/CommanderPho/PhoVSCodeExtensionList.git"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
