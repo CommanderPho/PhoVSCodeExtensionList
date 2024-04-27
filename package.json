@@ -1,0 +1,39 @@
+{
+  "name": "phocustomvscodeextensions",
+  "displayName": "PhoCustomVSCodeExtensions",
+  "description": "A collection of VSCode extensions that I've personally modified",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "zfzackfrost.commentbars", 
+    "grimmer.vscode-back-forward-button",
+    "stackbreak.comment-divider",
+    "bradzacher.vscode-copy-filename",
+    "kawamataryo.copy-python-dotted-path",
+    "codeandstuff.vscode-navigate-edit-history",
+    "file-icons.file-icons",
+    "Shinotatwu-DS.file-tree-generator",
+    "geddski.macros",
+    "jcmordan.mark-as-excluded",
+    "ryuta46.multi-command",
+    "johnw42.pathslasher",
+    "buenon.scratchpads",
+    "iket0731.symbol-navigate-back",
+    "rebornix.toggle",
+    "HipDotMedia.hipdot-vs-code-url-scheme-grabber",
+    "jkearins.action-buttons-ext",
+    "vscode-icons-team.vscode-icons",
+    "zengfanfan.zeng-color-picker",
+    "phohale.pho-pyqt-class-generator",
+    "phohale.custom-text-transform",
+    "ohyee.custom-button",
+    "pkief.material-icon-theme",
+    "analytic-signal.preview-html",
+    "hipdotmedia.hipdot-vs-code-url-scheme-grabber"
+  ]
+}
